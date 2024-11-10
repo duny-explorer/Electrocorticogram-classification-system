@@ -1,0 +1,3 @@
+[submodule "app/RatDreamHackathon"]
+	path = app/RatDreamHackathon
+	url = https://github.com/Timik232/RatDreamHackathon.git
